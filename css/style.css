@@ -1,0 +1,12 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+}
+
+nav a.active {
+  font-weight: bold;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
